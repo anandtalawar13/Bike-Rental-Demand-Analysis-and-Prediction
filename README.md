@@ -1,4 +1,4 @@
-# 🚲 Bike Rental Demand Analysis and Prediction
+# Bike Rental Demand Analysis and Prediction
 
 ## Project Overview
 This project analyzes bike rental demand and builds machine learning models to predict daily rental counts based on environmental and seasonal factors.  
@@ -77,4 +77,4 @@ We use the **Bike Sharing Dataset** (hourly and daily data) with the following f
 ##  How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Bike-Rental-Demand-Analysis-and-Prediction.git
+   git clone https://github.com/anandtalawar13/Bike-Rental-Demand-Analysis-and-Prediction.git
